@@ -1,0 +1,5 @@
+Escrevendo meu primeiro arquivo de texto em linguagem C
+Escrevendo uma nova linha
+Adicionando nova linha ao arquivo
+Mais uma linha adicionada
+Manteiga na manteiga!!!
