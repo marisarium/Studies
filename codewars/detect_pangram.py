@@ -30,5 +30,3 @@ print(is_pangram(d))
 print(is_pangram(e))
 print(is_pangram(f))
 print(is_pangram(g))
-
-
